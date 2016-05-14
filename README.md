@@ -1,4 +1,5 @@
 # LearningTool
+### Assist user with studying for chapters based upon CPSC 362 course.
 
 Developed by:
 
